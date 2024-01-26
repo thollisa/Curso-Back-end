@@ -1,9 +1,0 @@
-let  vezes= (n1,n2) => {}
-const n1 = Number(prompt("Qual o primeiro valor?: "))
-const n2 = Number(prompt("Qual o segundo valor?:  "))
-
-
-const multiplicar = (n1*n2) 
-
-vezes (multiplicar)
-alert(`O valor da multiplicação é igual a: ${multiplicar}`)
